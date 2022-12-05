@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Luis (he/him), pleased to meet you! My academic background is in Electrical Engineering and Computer Science (MSc) and I've been working as a Data Scientist and Developer for the past five years.
+I'm Luis (he/him), pleased to meet you! My academic background is in Electrical Engineering and Computer Science (MSc) and I've been working as a Data Scientist and MLOps Engineer for the past five years.
 
 You can reach me at `luisalfonsotalegon at gmail dot com`
 
