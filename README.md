@@ -7,9 +7,9 @@ You can reach me at `luisalfonsotalegon at gmail dot com`
 #### Main Interests
 * Data Science DevOps (AI model serving according to business logic, cloud services deployment and management)
 * Backend development (Python and Nodejs)
-* Game development (Experience in Unity and Unreal)
+* Game development
 * Clean Code, good practices, patterns and Agile development
-* Functional programming (taking my first steps!)
+* Functional programming
 
 ---
 
