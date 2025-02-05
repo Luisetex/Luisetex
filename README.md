@@ -8,7 +8,6 @@ You can reach me at `luisalfonsotalegon at gmail dot com`
 * Data Science DevOps (AI model serving according to business logic, cloud services deployment and management)
 * Backend development (Python and Nodejs)
 * Game development
-* Clean Code, good practices, patterns and Agile development
 * Functional programming
 
 ---
